@@ -1,10 +1,6 @@
-# working servers <= 200ms across 3 groups  2026-09-03 15:05
-# group 5259938187138916685 top 1 (verified 3, speed-tested) <= 200ms  15:12
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
+# working servers <= 200ms across 3 groups  2026-09-03 16:05
+# group 5259938187138916685 top 2 (verified 2, speed-tested) <= 200ms  16:09
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
 
-# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  15:13
-
-# group 4831982962369809459 top 2 (verified 2, speed-tested) <= 200ms  15:17
-hysteria2://5bcodmhjtyfyyrqh@awlix1.pcjxq.digital:36758?sni=cdn77.dmtr.ru&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%F0%9F%87%B7%F0%9F%87%BARU%7C91.142.73.159
-vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb5.murhost.network&fp=firefox&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&sid=fc36b4a584871aa5&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%7C167.104.223.179
+# group 4831982962369809459 top 4 (verified 8, speed-tested) <= 200ms  16:15
 

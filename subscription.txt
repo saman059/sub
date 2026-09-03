@@ -1,12 +1,15 @@
-# working servers <= 200ms across 4 groups  2026-09-04 01:45
-# group 5259938187138916685 top 2 (verified 6, speed-tested) <= 200ms  01:52
+# working servers <= 200ms across 4 groups  2026-09-04 02:45
+# group 5259938187138916685 top 8 (verified 9, speed-tested) <= 200ms  02:53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaV00xWQ@138.124.15.120:8388?#%F0%9F%87%AB%F0%9F%87%AEFI%7C138.124.15.120
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
-
-# group 5497001470947464421 top 2 (verified 2, speed-tested) <= 200ms  01:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
 
-# group 4831982962369809459 top 7 (verified 10, speed-tested) <= 200ms  01:59
+# group 5497001470947464421 top 2 (verified 3, speed-tested) <= 200ms  02:53
 
-# group 5448299226287467551 top 7 (verified 10, speed-tested) <= 200ms  02:13
+# group 4831982962369809459 top 7 (verified 10, speed-tested) <= 200ms  02:58
+
+# group 5448299226287467551 top 5 (verified 10, speed-tested) <= 200ms  03:12
+vless://0c78b433-e644-4249-9e56-86ab4c5106e2@free.filecloudos.space:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=3Yg55PenA6QAs_WGHl_ro3pu1zcr3DU9a8xJyWUolV8&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#%F0%9F%87%AB%F0%9F%87%AEFI%7C144.31.239.182
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB%7C87.239.249.137
 

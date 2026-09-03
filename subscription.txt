@@ -1,13 +1,12 @@
-# working servers <= 200ms across 4 groups  2026-09-03 18:45
-# group 5259938187138916685 top 4 (verified 6, speed-tested) <= 200ms  18:53
+# working servers <= 200ms across 4 groups  2026-09-03 19:45
+# group 5259938187138916685 top 2 (verified 6, speed-tested) <= 200ms  19:52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
 
-# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  18:54
+# group 5497001470947464421 top 1 (verified 3, speed-tested) <= 200ms  19:53
 
-# group 4831982962369809459 top 10 (verified 10, speed-tested) <= 200ms  18:58
-vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gb5.murhost.network&fp=firefox&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&sid=fc36b4a584871aa5&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%7C167.104.223.179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
+# group 4831982962369809459 top 4 (verified 10, speed-tested) <= 200ms  19:57
 
-# group 5448299226287467551 top 6 (verified 10, speed-tested) <= 200ms  19:13
-vless://d4cae7df-50a1-428c-bd62-881c8f3bbd90@84.32.151.203:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lt.superbuba.top&pbk=vrcsm8L_tY7sNbnCEdLCEjOthh_w9bdWS3wFPgsIomk&sid=4fa44664f6a566d3&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9LT%7C88.216.127.86
+# group 5448299226287467551 top 3 (verified 7, speed-tested) <= 200ms  20:12
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.227.142:8443?encryption=none&security=reality&sni=wikihow.com&fp=chrome&pbk=p9ISfhV0uZpKSgrK_8R6Mm4A01tWdzpKMlFR2TIj81s&type=xhttp&path=%2F&mode=auto#%F0%9F%87%B5%F0%9F%87%B1PL%7C2a12%3Abec4%3A1485%3A391%3A%3A2
 

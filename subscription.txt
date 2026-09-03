@@ -1,6 +1,14 @@
-# working servers <= 200ms across 3 groups  2026-09-03 16:05
-# group 5259938187138916685 top 2 (verified 2, speed-tested) <= 200ms  16:09
+# working servers <= 200ms across 4 groups  2026-09-03 16:45
+# group 5259938187138916685 top 9 (verified 10, speed-tested) <= 200ms  16:52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
 
-# group 4831982962369809459 top 4 (verified 8, speed-tested) <= 200ms  16:15
+# group 5497001470947464421 top 1 (verified 1, speed-tested) <= 200ms  16:53
+
+# group 4831982962369809459 top 9 (verified 10, speed-tested) <= 200ms  16:57
+vless://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.83:2087?encryption=none&security=none&type=ws&path=%2F4bc027a44532#%F0%9F%87%BA%F0%9F%87%B8US%7C66.93.128.123
+
+# group 5448299226287467551 top 3 (verified 10, speed-tested) <= 200ms  17:08
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.56.63:22224?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%AAIE%7C2a05%3Ad01c%3A274%3A6200%3Ad522%3A4efa%3A7760%3A1254
+vless://85cc845e-644c-4148-8288-f0c03c83c1ec@ww7.levikogjgfdd.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fi.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEFI%7C85.192.49.141
 

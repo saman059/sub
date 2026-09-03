@@ -1,6 +1,9 @@
 # working servers <= 200ms across 3 groups  2026-09-03 14:05
-# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  14:05
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+# group 5259938187138916685 top 5 (verified 6, speed-tested) <= 200ms  14:09
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
 
-# group 4831982962369809459 top 8 (verified 10, speed-tested) <= 200ms  14:10
+# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  14:09
+
+# group 4831982962369809459 top 8 (verified 10, speed-tested) <= 200ms  14:14
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#%F0%9F%87%AB%F0%9F%87%B7FR%7C62.210.91.10
 

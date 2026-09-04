@@ -1,12 +1,16 @@
-# working servers <= 200ms across 4 groups  2026-09-04 13:45
-# group 5259938187138916685 top 4 (verified 5, speed-tested) <= 200ms  13:53
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AADE%7C5.75.203.174
-
-# group 5497001470947464421 top 2 (verified 2, speed-tested) <= 200ms  13:54
+# working servers <= 200ms across 4 groups  2026-09-04 14:45
+# group 5259938187138916685 top 1 (verified 2, speed-tested) <= 200ms  14:52
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
 
-# group 4831982962369809459 top 5 (verified 10, speed-tested) <= 200ms  14:05
+# group 5497001470947464421 top 1 (verified 1, speed-tested) <= 200ms  14:53
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AADE%7C5.75.203.174
 
-# group 5448299226287467551 top 5 (verified 10, speed-tested) <= 200ms  14:20
+# group 4831982962369809459 top 1 (verified 8, speed-tested) <= 200ms  15:04
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
+
+# group 5448299226287467551 top 6 (verified 10, speed-tested) <= 200ms  15:20
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL%7C72.56.92.177
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@netraidly.ru:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL%7C72.56.92.177
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL%7C72.56.92.177
+vless://4480161e-2c59-4d37-8736-675c9af32bf1@72.56.92.177:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=fWzCKXwvMXaacsl1DdFb1vKQ9l9cTK1G7udqmaYHL0Y&sid=01d1bf2d4755d40c&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL%7C72.56.92.177
 

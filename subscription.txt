@@ -1,13 +1,12 @@
-# working servers <= 200ms across 4 groups  2026-09-04 12:45
-# group 5259938187138916685 top 7 (verified 8, speed-tested) <= 200ms  12:52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AADE%7C5.75.203.174
+# working servers <= 200ms across 4 groups  2026-09-04 13:45
+# group 5259938187138916685 top 4 (verified 5, speed-tested) <= 200ms  13:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AADE%7C5.75.203.174
+
+# group 5497001470947464421 top 2 (verified 2, speed-tested) <= 200ms  13:54
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443?#%F0%9F%87%AC%F0%9F%87%A7GB%7C141.98.101.181
 
-# group 5497001470947464421 top 3 (verified 3, speed-tested) <= 200ms  12:52
-vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE%7C93.123.85.32
+# group 4831982962369809459 top 5 (verified 10, speed-tested) <= 200ms  14:05
 
-# group 4831982962369809459 top 8 (verified 10, speed-tested) <= 200ms  12:57
-
-# group 5448299226287467551 top 9 (verified 10, speed-tested) <= 200ms  13:13
+# group 5448299226287467551 top 5 (verified 10, speed-tested) <= 200ms  14:20
 

@@ -1,10 +1,12 @@
-# working servers <= 200ms across 4 groups  2026-09-04 21:45
-# group 5259938187138916685 top 3 (verified 8, speed-tested) <= 200ms  21:53
+# working servers <= 200ms across 4 groups  2026-09-04 22:45
+# group 5259938187138916685 top 1 (verified 3, speed-tested) <= 200ms  22:52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
 
-# group 4831982962369809459 top 3 (verified 10, speed-tested) <= 200ms  21:58
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@5.75.203.195:1080?#%F0%9F%87%A9%F0%9F%87%AADE%7C2a01%3A4f8%3A1c1b%3A1ae7%3A%3A1
+# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  22:53
 
-# group 5448299226287467551 top 10 (verified 10, speed-tested) <= 200ms  22:14
+# group 4831982962369809459 top 3 (verified 10, speed-tested) <= 200ms  22:57
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5RlFGYmdEME5DZzY4cUlaYm5GSDQ2TWx3UVBiemw4NA@46.226.162.172:1080?#%F0%9F%87%AC%F0%9F%87%A7GB%7C46.226.162.172
+
+# group 5448299226287467551 top 10 (verified 10, speed-tested) <= 200ms  23:14
 vless://0dd9cfaa-cebd-4444-8778-70cb22737944@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%A9%F0%9F%87%AADE%7C91.92.33.95
 

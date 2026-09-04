@@ -1,17 +1,17 @@
-# working servers <= 200ms across 4 groups  2026-09-04 04:45
-# group 5259938187138916685 top 3 (verified 10, speed-tested) <= 200ms  04:52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C2605%3A6400%3A10%3A4a9%3Aba0d%3A30d6%3A58c8%3A8c71
-
-# group 5497001470947464421 top 4 (verified 5, speed-tested) <= 200ms  04:53
+# working servers <= 200ms across 4 groups  2026-09-04 05:45
+# group 5259938187138916685 top 6 (verified 8, speed-tested) <= 200ms  05:53
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
-vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB%7C87.239.249.137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
 
-# group 4831982962369809459 top 7 (verified 10, speed-tested) <= 200ms  04:57
+# group 5497001470947464421 top 6 (verified 7, speed-tested) <= 200ms  05:56
+vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?encryption=none&security=none&type=ws&host=young-wind-3c58.240-2ce.workers.dev&path=%2Fpyip#%F0%9F%8F%B3unknown%7Cunknown
+vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.101.215:8880?encryption=none&security=none&type=ws&host=wispy-cake-ec69.193-bc6.workers.dev&path=%2F#%F0%9F%87%AF%F0%9F%87%B5JP%7C167.179.75.237
+vless://67eb6b17-7797-4ded-bf52-423c4c5f6cbd@87.239.249.137:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.foxsports.com&fp=chrome&pbk=G7bpUPFSW28-oE6ff8qZac1_apU6PiJ-GHmi7tAPDSY&sid=91af08b1ce1f&type=tcp&headerType=none#%F0%9F%87%AC%F0%9F%87%A7GB%7C87.239.249.137
 vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE%7C2a0d%3A5940%3A140%3A20%3A%3A2
 
-# group 5448299226287467551 top 7 (verified 10, speed-tested) <= 200ms  05:12
-vless://0c78b433-e644-4249-9e56-86ab4c5106e2@free.filecloudos.space:443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=3Yg55PenA6QAs_WGHl_ro3pu1zcr3DU9a8xJyWUolV8&type=grpc&authority=&serviceName=grpc-tunnel&mode=multi#%F0%9F%87%AB%F0%9F%87%AEFI%7C144.31.239.182
-vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@deepl.com:8880?encryption=none&security=none&type=ws&host=young-wind-3c58.240-2ce.workers.dev&path=%2Fpyip#%F0%9F%8F%B3unknown%7Cunknown
-vless://0bd6aa8d-3bdb-4fa3-893e-75a844e2e409@104.16.101.215:8880?encryption=none&security=none&type=ws&host=wispy-cake-ec69.193-bc6.workers.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%AADE%7C104.28.164.227
+# group 4831982962369809459 top 1 (verified 10, speed-tested) <= 200ms  06:02
+
+# group 5448299226287467551 top 8 (verified 10, speed-tested) <= 200ms  06:17
+vless://2efb2d33-673c-4fa0-b606-61760774a884@tp.paydar.site:7575?encryption=none&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com#%F0%9F%87%A9%F0%9F%87%AADE%7C2.28.73.216
+vless://8535e46f-4c0b-4b02-9369-d4d553c9a892@78.17.116.201:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nokia.com&fp=chrome&pbk=ho99K9SlOhJxolr4nVfw8SV4Z1yI22KaKaxUfk2o8jE&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AEFI%7C78.17.116.201
 

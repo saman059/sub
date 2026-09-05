@@ -1,9 +1,4 @@
-# working servers <= 200ms across 4 groups  2026-09-05 10:45
-# group 5259938187138916685 top 3 (verified 4, speed-tested) <= 200ms  10:52
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
-
-# group 4831982962369809459 top 3 (verified 3, speed-tested) <= 200ms  10:59
+# working servers <= 200ms across 4 groups  2026-09-05 14:41
+# group 5259938187138916685 top 2 (verified 2, speed-tested) <= 200ms  14:47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
-
-# group 5448299226287467551 top 3 (verified 10, speed-tested) <= 200ms  11:17
 

@@ -1,11 +1,17 @@
-# working servers <= 200ms across 4 groups  2026-09-05 06:45
-# group 5259938187138916685 top 6 (verified 7, speed-tested) <= 200ms  06:53
+# working servers <= 200ms across 4 groups  2026-09-05 07:45
+# group 5259938187138916685 top 4 (verified 7, speed-tested) <= 200ms  07:47
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
+
+# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  07:47
+
+# group 4831982962369809459 top 8 (verified 10, speed-tested) <= 200ms  07:51
+vless://a0ba4d1e-60e7-4362-8f82-33da87da8e88@167.233.227.12:35443?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=fu6E7KRYZT4vs4EoWdDiyH3tL8n4eD8M4TveOvpvNmE&sid=bd2e4421&spx=%2F26efcddfd88f6bc&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE%7C167.233.227.12
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C2605%3A6400%3A10%3A4a9%3Aba0d%3A30d6%3A58c8%3A8c71
 
-# group 5497001470947464421 top 1 (verified 2, speed-tested) <= 200ms  06:54
-
-# group 4831982962369809459 top 2 (verified 2, speed-tested) <= 200ms  06:58
-
-# group 5448299226287467551 top 5 (verified 10, speed-tested) <= 200ms  07:13
+# group 5448299226287467551 top 7 (verified 10, speed-tested) <= 200ms  08:07
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.243.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lt-1.kihsuyhf8jkiugsxb.cfd&fp=chrome&pbk=L3AYjn3nBIBik5EikZLg0G6GcwWUx24AxZ5rNzxD8TM&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%7C144.31.243.254
+vless://0dd9cfaa-cebd-4444-8778-70cb22737944@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=%2F%3FTELEGRAM-TOOTFFARANGI&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%A9%F0%9F%87%AADE%7C91.92.33.95
+vless://0dd9cfaa-cebd-4444-8778-70cb22737944@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%A9%F0%9F%87%AADE%7C91.92.33.95
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@150.241.72.251:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=at-2.kihsuyhf8jkiugsxb.cfd&fp=chrome&pbk=ydinsEfGRz7XRuIo8SYSUecAUtQFY8lw4_5wqT1z2wo&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%7C31.76.69.0
 

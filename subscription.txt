@@ -1,1 +1,13 @@
-# working servers <= 200ms across 4 groups  2026-09-05 14:41
+# working servers <= 400ms across 4 groups  2026-09-05 15:15
+# group 5259938187138916685 top 5 (verified 5, speed-tested) <= 400ms  15:19
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C216.105.168.18
+
+# group 4831982962369809459 top 7 (verified 10, speed-tested) <= 400ms  15:25
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.176.6:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apiv13.betust.net&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL%7C84.32.176.6
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv13.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apiv13.betust.net&fp=firefox&pbk=xNzdfy4hPv-IgM_MSn64FNQdb-UPu78pmM-GBE1HhSo&sid=ef5d4ad5&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1NL%7C84.32.176.6
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?encryption=none&security=none&type=ws&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#%F0%9F%87%B8%F0%9F%87%ACSG%7C178.128.86.3
+
+# group 5448299226287467551 top 15 (verified 20, speed-tested) <= 400ms  15:40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+vless://3aaf6f5a-bebe-42c9-a2da-0c5500146451@194.110.207.75:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fernandfoxgloveinteriors.co.uk&fp=chrome&pbk=wHf1nSF3byWgtI0aprUDgbEBrgtE6Y8bpqnNxl9lhhg&sid=763a06472e66efff&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B4NO%7C194.110.207.113
+

@@ -1,16 +1,15 @@
-# working servers <= 200ms across 4 groups  2026-09-05 03:45
-# group 5259938187138916685 top 5 (verified 10, speed-tested) <= 200ms  03:52
+# working servers <= 200ms across 4 groups  2026-09-05 04:45
+# group 5259938187138916685 top 7 (verified 10, speed-tested) <= 200ms  04:52
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@cdn-2d12.giftcardbazarbot.com:8243?#%F0%9F%87%A9%F0%9F%87%AADE%7C5.75.203.174
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0cHVXdkFRdGpkLU12dms4MWw3T0xn@116.202.187.197:8243?#%F0%9F%87%A9%F0%9F%87%AADE%7C5.75.203.174
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
 
-# group 5497001470947464421 top 4 (verified 5, speed-tested) <= 200ms  03:53
-vless://0dd9cfaa-cebd-4444-8778-70cb22737944@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%A9%F0%9F%87%AADE%7C91.92.33.95
+# group 5497001470947464421 top 6 (verified 6, speed-tested) <= 200ms  04:53
+vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.243.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lt-1.kihsuyhf8jkiugsxb.cfd&fp=chrome&pbk=L3AYjn3nBIBik5EikZLg0G6GcwWUx24AxZ5rNzxD8TM&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%7C144.31.243.254
 vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?encryption=none&security=none&type=tcp&headerType=none&host=Telegram-Leviko_v2ray#%F0%9F%87%A9%F0%9F%87%AADE%7C2a0d%3A5940%3A140%3A20%3A%3A2
+vless://0dd9cfaa-cebd-4444-8778-70cb22737944@91.92.33.95:443?encryption=none&security=reality&sni=dl.google.com&fp=chrome&pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&sid=2a236a7fcbe0ce61&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%A9%F0%9F%87%AADE%7C91.92.33.95
 vless://87e26a6f-e243-4c8d-9bf6-362b0adee4f2@93.123.85.32:41809?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AADE%7C2a0d%3A5940%3A140%3A20%3A%3A2
 
-# group 4831982962369809459 top 9 (verified 10, speed-tested) <= 200ms  03:57
+# group 4831982962369809459 top 10 (verified 10, speed-tested) <= 200ms  04:58
 
-# group 5448299226287467551 top 8 (verified 10, speed-tested) <= 200ms  04:12
-vless://0dc1fc26-b8e9-4296-9870-0996de3c2333@144.31.243.249:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=lt-1.kihsuyhf8jkiugsxb.cfd&fp=chrome&pbk=L3AYjn3nBIBik5EikZLg0G6GcwWUx24AxZ5rNzxD8TM&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US%7C144.31.243.254
+# group 5448299226287467551 top 9 (verified 10, speed-tested) <= 200ms  05:11
 

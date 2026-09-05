@@ -1,14 +1,1 @@
-# working servers <= 400ms across 9 groups  2026-09-06 00:17
-# group 5259938187138916685 top 1 (verified 2, speed-tested) <= 400ms  00:27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
-
-# group 4831982962369809459 top 4 (verified 5, speed-tested) <= 400ms  00:40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
-
-# group 5448299226287467551 top 6 (verified 14, speed-tested) <= 400ms  01:17
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008?#%F0%9F%87%BA%F0%9F%87%B8US%7C15.204.247.175
-
-# group 5109838280210342865 top 4 (verified 6, speed-tested) <= 400ms  01:36
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&security=none&sni=mypanel.unixzone.us&type=ws&host=mypanel.unixzone.us&path=%2F#%F0%9F%87%B3%F0%9F%87%B1NL%7C2001%3A1af8%3A5301%3A133%3A1c00%3Aefff%3Afe00%3A203e
-vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@45.138.100.226:2083?encryption=none&security=tls&sni=using.neobo-tooth.ru&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%BA%F0%9F%87%B8US%7C45.138.100.226
-
+# working servers <= 400ms across 9 groups  2026-09-06 02:17

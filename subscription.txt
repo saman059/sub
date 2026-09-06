@@ -1,1 +1,16 @@
-# working servers <= 400ms across 9 groups  2026-09-06 02:17
+# working servers <= 400ms across 9 groups  2026-09-06 03:17
+# group 5259938187138916685 top 9 (verified 15, speed-tested) <= 400ms  03:38
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990?#%F0%9F%87%B3%F0%9F%87%B4NO%7C185.213.23.63
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C156.146.38.170
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C216.105.168.18
+ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443?#%F0%9F%87%B8%F0%9F%87%A8SC%7C45.207.207.25
+
+# group 4831982962369809459 top 11 (verified 20, speed-tested) <= 400ms  03:53
+trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%A9%F0%9F%87%AADE%7C67.220.82.10
+vless://903bb12e-ac86-414c-adf1-b9c41e213da8@104.17.108.59:443?encryption=none&security=tls&sni=sire.allomroll.org&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AADE%7C91.107.188.188
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%F0%9F%87%B5%F0%9F%87%B1PL%7C2001%3A41d0%3A601%3A2000%3A%3A1054
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%F0%9F%87%B5%F0%9F%87%B1PL%7C2001%3A41d0%3A601%3A2000%3A%3A1054
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRWVmSHdMTHBDY3ZabGlheWFhMSt0L1ZISmdWdDhuUDdUeGlQT0pNNklFPQ@130.49.189.158:43558?#%F0%9F%87%B7%F0%9F%87%BARU%7C130.49.189.158
+

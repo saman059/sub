@@ -1,16 +1,37 @@
-# working servers <= 400ms across 9 groups  2026-09-06 03:17
-# group 5259938187138916685 top 9 (verified 15, speed-tested) <= 400ms  03:38
+# working servers <= 400ms across 9 groups  2026-09-06 01:17
+# group 5259938187138916685 top 10 (verified 13, speed-tested) <= 400ms  01:34
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990?#%F0%9F%87%B3%F0%9F%87%B4NO%7C185.213.23.63
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C156.146.38.170
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C216.105.168.18
-ss://YWVzLTI1Ni1nY206Z2oxK1hLdWxLVjBubXc2SVRoY2tPa2tKaDVEU003K0M@45.207.207.25:443?#%F0%9F%87%B8%F0%9F%87%A8SC%7C45.207.207.25
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348?#%F0%9F%8F%B3unknown%7Cunknown
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099?#%F0%9F%87%B9%F0%9F%87%BCTW%7C2001%3Ab011%3A3802%3A4ef5%3Ae815%3A6b61%3A2897%3A46c3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@36.224.147.226:50099?#%F0%9F%87%B9%F0%9F%87%BCTW%7C2001%3Ab011%3A3802%3A4ef5%3Ae815%3A6b61%3A2897%3A46c3
 
-# group 4831982962369809459 top 11 (verified 20, speed-tested) <= 400ms  03:53
-trojan://MiTiVPN@151.101.56.7:443?security=tls&sni=ssl.fastly.com&fp=firefox&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=mitivpn-mitivpn-mitivpn--mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e2%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN#%F0%9F%87%A9%F0%9F%87%AADE%7C67.220.82.10
+# group 5497001470947464421 top 2 (verified 4, speed-tested) <= 400ms  01:36
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445?#%F0%9F%87%A8%F0%9F%87%A6CA%7C51.222.141.125
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
+
+# group 4831982962369809459 top 9 (verified 20, speed-tested) <= 400ms  01:56
 vless://903bb12e-ac86-414c-adf1-b9c41e213da8@104.17.108.59:443?encryption=none&security=tls&sni=sire.allomroll.org&fp=chrome&insecure=0&allowInsecure=0&type=grpc&authority=&serviceName=grpc#%F0%9F%87%A9%F0%9F%87%AADE%7C91.107.188.188
-vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%F0%9F%87%B5%F0%9F%87%B1PL%7C2001%3A41d0%3A601%3A2000%3A%3A1054
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443?#%F0%9F%87%BA%F0%9F%87%B8US%7C216.105.168.18
 vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&fp=chrome&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%F0%9F%87%B5%F0%9F%87%B1PL%7C2001%3A41d0%3A601%3A2000%3A%3A1054
+vless://b2e8f455-3bd9-477c-b8f0-a3198f601565@54.38.138.175:443?encryption=none&security=reality&sni=play.google.com&pbk=LrDYMSt1pt2h6n-7YnHpcUAb_IG7QsQ0rfXz8RqkfCY&sid=9e0fac51cc19d2&type=tcp&headerType=http&path=%2Fnaranv2ray#%F0%9F%87%B5%F0%9F%87%B1PL%7C2001%3A41d0%3A601%3A2000%3A%3A1054
+
+# group 5109838280210342865 top 7 (verified 20, speed-tested) <= 400ms  02:38
+vless://60e2a548-96aa-4850-a279-1edab743c39b@de1.cnyvpn.com:2053?encryption=none&security=reality&sni=finanzfluss.de&fp=chrome&pbk=5_kjhGPcPUiUNJ0Mt4-YoRjphhDz3Hfvx1YCdbBRUA0&sid=8b71da690c3d5d03&type=grpc&authority=&serviceName=remnagrpc&mode=gun#%F0%9F%87%B7%F0%9F%87%B8RS%7C81.18.48.98
+vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443?encryption=none&security=reality&sni=gp1.steptofsvo.com&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd&type=grpc&authority=&serviceName=grpc&mode=gun#%F0%9F%87%A9%F0%9F%87%AADE%7C104.167.24.227
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@193.42.39.10:33743?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&type=grpc&authority=&serviceName=TunService&mode=gun#%F0%9F%87%B8%F0%9F%87%AASE%7C79.141.174.147
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9IT%7C204.216.216.23
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQURFfDE0OS4zMy40MS4yMTMiLA0KICAiYWRkIjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkYjUwYTIwZS03ZmY1LTRlNzAtOTQ4Zi0xN2NjOWNhN2MxNTQiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsDQogICJwYXRoIjogIi9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogImNocm9tZSIsDQogICJpbnNlY3VyZSI6ICIwIiwNCiAgInZjbiI6ICIiLA0KICAicGNzIjogIiINCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443?#%F0%9F%87%A8%F0%9F%87%A6CA%7C2607%3A5300%3A60%3A15e1%3A%3A
+
+# group 4714440802308990400 top 10 (verified 20, speed-tested) <= 400ms  03:01
+vless://33b4bcd8-984a-4358-a32e-38b3ef4037b7@88.198.107.126:37801?encryption=mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg&security=none&type=tcp&headerType=http&host=amp-api-edge.apps.apple.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AADE%7C91.107.176.224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw@188.116.23.244:8388?#%F0%9F%87%B3%F0%9F%87%B1NL%7C188.116.23.244
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRWVmSHdMTHBDY3ZabGlheWFhMSt0L1ZISmdWdDhuUDdUeGlQT0pNNklFPQ@130.49.189.158:43558?#%F0%9F%87%B7%F0%9F%87%BARU%7C130.49.189.158
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083?#%F0%9F%87%A8%F0%9F%87%A6CA%7C51.222.107.43
+
+# group 5580258574093157119 top 13 (verified 20, speed-tested) <= 400ms  03:54
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206bHdqa3lFMnEvT01GMnpLblU2bFA5Zz09@api.de.faz11.ir:2086?#%F0%9F%87%A9%F0%9F%87%AADE%7C89.208.103.163
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083?#%F0%9F%87%A8%F0%9F%87%A6CA%7C51.222.107.43
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001?#%F0%9F%87%AC%F0%9F%87%A7GB%7C94.156.250.148
 
